@@ -70,6 +70,7 @@ const Homepage = () => {
 			<Helmet>
 				<title>{INFO.main.title}</title>
 				<meta name="description" content={currentSEO.description} />
+				<meta name="google-site-verification" content="ACNx0N73Cusih0zgJAP5_rivhkBI3-hl87xgViME2Is" />
 				<meta
 					name="keywords"
 					content={currentSEO.keywords.join(", ")}

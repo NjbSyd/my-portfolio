@@ -27,6 +27,7 @@ const Projects = () => {
               name="keywords"
               content={currentSEO.keywords.join(", ")}
           />
+          <meta name="google-site-verification" content="ACNx0N73Cusih0zgJAP5_rivhkBI3-hl87xgViME2Is" />
         </Helmet>
 
         <div className="page-content">
